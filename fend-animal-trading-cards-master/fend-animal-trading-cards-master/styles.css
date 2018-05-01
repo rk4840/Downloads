@@ -1,0 +1,11 @@
+body {
+  font-family: 'Roboto', serif;
+  border-color: red;
+}
+.houndbody {
+	display: flex;
+	flex-wrap: wrap;
+}
+.short {
+	width: 85%;
+}
