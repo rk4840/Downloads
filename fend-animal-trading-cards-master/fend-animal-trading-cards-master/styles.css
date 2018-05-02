@@ -1,8 +1,8 @@
-body {
+h3 {
   font-family: 'Roboto', serif;
   border-color: red;
 }
-.houndbody {
+p {
 	display: flex;
 	flex-wrap: wrap;
 }
